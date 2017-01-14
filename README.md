@@ -6,4 +6,4 @@ Created a fill-in-the blanks quiz to leverage the power of functions in Python a
 
 
 ##Dependencies
-You will need to download Python to run this application. Click [here](https://www.python.org/downloads/) to download.
+You will need to download Python to run this program. Click [here](https://www.python.org/downloads/) to download.
